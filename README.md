@@ -114,8 +114,4 @@ This repository was explored to understand practical implementations of:
 
 This repository is based on CrewAI example workflows and was explored for learning and experimentation purposes to better understand modern agentic AI systems and orchestration concepts.
 
----
 
-## License
-
-This project is released under the MIT License.
